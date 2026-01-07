@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.out
+
+# Temporary files
+*.o
+*.obj
+*.tmp
+
+# IDE / editor files
+.vscode/
+.idea/

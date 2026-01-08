@@ -32,6 +32,15 @@ This repository contains fundamental C++ concepts and basic practice programs th
 
 ---
 
+### January 8 ,2026
+- Binary Representation of Negative Numbers
+- C++ Arithmetic Operator
+- C++ Logical Operator
+- Assignment, Operator Precedence
+- Bitwise Operator in C++
+
+---
+
 ## 🎯 Purpose
 - To build strong fundamentals in C++
 - To practice syntax and basic logic

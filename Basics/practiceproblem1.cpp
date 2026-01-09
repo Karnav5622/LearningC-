@@ -61,16 +61,33 @@ using namespace std;
 //     }
 //     return 0;
 // }
-int main()
-{
-    int sum=0;
+// int main()
+// {
+//     int sum=0;
+//     int n;
+//     cout<<"Enter number";
+//     cin>> n;
+//     for(int i=0; i<=n; i++){
+//         sum=sum+i;
+//     }
+//     cout<<sum;
+//     return 0;
+// }
+#include <iostream>
+using namespace std;
+
+int main() {
+    // code here
     int n;
-    cout<<"Enter number";
-    cin>> n;
-    for(int i=0; i<=n; i++){
-        sum=sum+i;
+    cin>>n;
+    if(n>100){
+        cout<<"Big"<<endl;
+        cout<<"Number";
     }
-    cout<<sum;
+    else{
+        cout<<"Number";
+    }
+
     return 0;
 }
 

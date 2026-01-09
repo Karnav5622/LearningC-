@@ -41,6 +41,17 @@ This repository contains fundamental C++ concepts and basic practice programs th
 
 ---
 
+### January 9 ,2026
+## Flow Control
+- If else Statements
+- Else if Statements
+- C++ Logical Operator
+- Assignment, Operator Precedence
+- Bitwise Operator in C++
+
+---
+
+
 ## 🎯 Purpose
 - To build strong fundamentals in C++
 - To practice syntax and basic logic

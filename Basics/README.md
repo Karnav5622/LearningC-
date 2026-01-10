@@ -51,6 +51,15 @@ This repository contains fundamental C++ concepts and basic practice programs th
 
 ---
 
+### January 10 ,2026
+## Loops 
+- Loops in C++
+- For, while,Do while loops
+- Break Statements
+- Nested loops
+- 
+
+---
 
 ## 🎯 Purpose
 - To build strong fundamentals in C++

@@ -64,9 +64,13 @@ This repository contains fundamental C++ concepts and basic practice programs th
 ### January 11 ,2026
 ## Loops 
 - Problem Solving
-- 
-- 
-- 
+
+### January 12 ,2026
+## Function 
+- Function Defination/Declaration
+- Function Argument/Parameter
+- Default Argument
+- Inline Function
 - 
 
 ---

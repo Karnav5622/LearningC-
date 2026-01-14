@@ -1,0 +1,25 @@
+What is the difference between
+arr[i] - 1;
+and
+arr[i] = arr[i] - 1;
+
+arr[i] -1 will display each value with -1 but no change in array but in second it does modify the array and that's what they are asking
+C++ never changes data unless you explicitly assign to memory.
+
+Expressions don’t mutate.
+Assignments do.
+
+
+
+Why does passing arr[] to a function allow modification of the original array,
+but passing an int does not?
+
+Passing an int passes a copy of the value, so changes do not affect the original.
+Passing an array actually passes a pointer to its memory, so changes affect the original array.
+
+
+
+
+
+If arrays are passed as pointers, why does sizeof(arr) inside a function not give the array size?
+“Because in main it is an array, and in a function parameter it is a pointer”

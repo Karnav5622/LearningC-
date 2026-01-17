@@ -102,6 +102,13 @@ This repository contains fundamental C++ concepts and basic practice programs th
 
 ---
 
+### January 17 ,2026
+## Array 
+- Problem Solving
+- References
+
+---
+
 ## 🎯 Purpose
 - To build strong fundamentals in C++
 - To practice syntax and basic logic

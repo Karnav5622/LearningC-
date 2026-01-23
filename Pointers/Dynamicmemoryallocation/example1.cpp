@@ -1,0 +1,8 @@
+//Example1: Allocating and Accessing Memory
+#include <iostream>
+using namespace std;
+
+int main() {
+    int *ptr = new int[10];  
+    return 0;
+}
